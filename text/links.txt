@@ -1,0 +1,2 @@
+text/tecnico.txt
+text/CNC.txt

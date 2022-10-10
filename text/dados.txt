@@ -1,0 +1,16 @@
+DS-Java-Leonardo-7000.0-Professor
+DS-Java-Joaquim Batista-20-2000.0
+DS-Java-joao-19-100-500
+DS-Java-jorge-18-90-400
+DS-Java-jorge-18-90-400
+DS-Java-james-20-90-800
+DS-Java-james-17-80-600
+EletroEletronica-Java-Icaro-11000.0-Coordenador
+EletroEletronica-Java-Miura-45-2000.0
+EletroEletronica-Java-joao-16-8-100
+EletroEletronica-Java-jorge-14-10-80
+macanica-Django-mandioca-11000.0-Coordenador
+macanica-Django-google-12-2000.0
+macanica-Django-amanda-18-80-12
+macanica-Django-arnaldo-17-90-23
+macanica-Django-alice-16-100
